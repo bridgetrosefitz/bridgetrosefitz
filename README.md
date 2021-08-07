@@ -13,4 +13,5 @@ A few apps I made, to solve problems I care about…
 
 ## 📬 Reach out!
 
-bridgetrosefitz@gmail.com
+* bridgetrosefitz@gmail.com
+* [LinkedIn](https://linkedin.com/in/bridgetrosefitzgerald)
