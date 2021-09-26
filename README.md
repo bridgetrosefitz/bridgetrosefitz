@@ -4,12 +4,16 @@ I work mostly in React / Javascript on the front-end and Rails for my APIs (and 
 
 ## 👩🏼‍💻 Projects
 
-A few apps I made, to solve problems I care about…
+A few apps I made for clients, or to solve problems I care about…
 
+* [Geoff McFetridge x DropBox](https://www.instagram.com/p/CTmxNw4FROX/) *Project was only live from 09 Sep to 09 Oct 2021)*
+* [Atlassian Marketplace add-on (for Codegeist hackathon 2021)](https://devpost.com/software/raci-project-management)
 * [RACI Project Management](https://raci.team)
 * [Digital Innovation Statistics](http://digitalinnovation.fyi)
-* [Particles](https://bridgetro.se/particles)
-* [My personal portfolio](https://bridgetro.se)
+* [3D Particles](https://bridgetro.se/particles)
+* [Personal portfolio](https://bridgetro.se)
+
+Feel free to check out the code for these projects (most of them) in my repos.
 
 ## 📬 Reach out!
 
