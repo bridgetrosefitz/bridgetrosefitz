@@ -6,7 +6,7 @@ I work mostly in React / Javascript on the front-end and Rails for my APIs (and 
 
 A few apps I made for clients, or to solve problems I care about…
 
-* [Geoff McFetridge x DropBox](https://www.instagram.com/p/CTmxNw4FROX/) *(Project was live from 09 Sep to 09 Oct 2021)*
+* [Geoff McFetridge x Dropbox](https://www.instagram.com/p/CTmxNw4FROX/) *(Project was live from 09 Sep to 09 Oct 2021)*
 * [Atlassian Marketplace add-on (for Codegeist hackathon 2021)](https://devpost.com/software/raci-project-management)
 * [RACI Project Management](https://raci.team)
 * [Digital Innovation Statistics](http://digitalinnovation.fyi)
