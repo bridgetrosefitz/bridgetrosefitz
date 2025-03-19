@@ -1,6 +1,6 @@
 # 👋 Hello ・ Salut ・ こんにちは・你好 ! 
 
-I work mostly in React / Javascript on the front-end and Rails for my APIs (and / or front-end). I love tech. I was team member #1 at a high-growth startup in NYC, and also have a bunch of experience with the public sector and human side of tech. Please check out my portfolio and projects if you’re interested.
+I have helped scale a product at a high-growth VC-backed start-up in NYC. I am passionately metrics-driven, and have defined, tracked and driven improvements in key company indicators;  am also really user-focused, from time spent leading user testing and customer service.
 
 ## 👩🏼‍💻 Projects
 
